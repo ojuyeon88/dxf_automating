@@ -1,27 +1,32 @@
-# 사용할 파일: text_category_all.csv
-# 학습 후: model.pkl, vectorizer.pkl 저장
-
 import pandas as pd
 import pickle
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
-# 학습 데이터 로드
-df = pd.read_csv("AI/data/text_category_all.csv")
+# 학습용 CSV 경로
+csv_path = "AI/data/text_category_all.csv"
 
-# 벡터화 및 학습
+# 데이터 불러오기
+df = pd.read_csv(csv_path)
+X_text = df["text"]
+y_label = df["category"]
+
+# 벡터라이저 + 분류기 학습
 vectorizer = CountVectorizer()
-X = vectorizer.fit_transform(df["text"])
-y = df["category"]
+X = vectorizer.fit_transform(X_text)
 
 clf = MultinomialNB()
-clf.fit(X, y)
+clf.fit(X, y_label)
+
+# 디렉토리 없으면 생성
+import os
+os.makedirs("model", exist_ok=True)
 
 # 모델 저장
-with open("AI/model/vectorizer.pkl", "wb") as f:
+with open("model/vectorizer.pkl", "wb") as f:
     pickle.dump(vectorizer, f)
 
-with open("AI/model/model.pkl", "wb") as f:
+with open("model/model.pkl", "wb") as f:
     pickle.dump(clf, f)
 
-print("[✔] 모델 학습 및 저장 완료!")
+print("[✔] 모델 학습 및 저장 완료")

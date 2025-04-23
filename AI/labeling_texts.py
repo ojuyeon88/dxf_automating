@@ -3,14 +3,12 @@ import re
 import csv
 import os
 
-# === 설정 ===
+# 설정
 dxf_folder = "files/dxf"
 output_csv = "AI/data/text_category_all.csv"
 
-# === 의미 있는 텍스트 필터링 키워드 ===
+# 키워드
 KEYWORDS = ['호', '실', '강의실', '계단', '화장실', '세미나', '회의', '휴게', '엘리베이터', '전기', '기계']
-
-# === 카테고리 키워드 사전 ===
 CATEGORY_KEYWORDS = {
     "lecture": ["강의실", "계단강의실"],
     "restroom": ["화장실", "남자화장실", "여자화장실", "장애인화장실"],
@@ -24,34 +22,23 @@ CATEGORY_KEYWORDS = {
     "misc": []
 }
 
-# === 의미 있는 텍스트 판단 함수 ===
 def is_meaningful(text):
     text = text.strip()
-    if len(text) < 2:
-        return False
-    if re.fullmatch(r'[\W_]+', text):
-        return False
-    if re.fullmatch(r'\d{3,5}', text):
-        return False
-    for kw in KEYWORDS:
-        if kw in text:
-            return True
-    if re.search(r'\d+[가-힣]+', text):
-        return True
+    if len(text) < 2: return False
+    if re.fullmatch(r'[\W_]+', text): return False
+    if re.fullmatch(r'\d{3,5}', text): return False
+    if any(kw in text for kw in KEYWORDS): return True
+    if re.search(r'\d+[가-힣]+', text): return True
     return False
 
-# === 카테고리 자동 분류 함수 ===
 def categorize(text):
     for category, keywords in CATEGORY_KEYWORDS.items():
-        for kw in keywords:
-            if kw in text:
-                return category
+        if any(kw in text for kw in keywords):
+            return category
     return "misc"
 
-# === 결과 저장 리스트
 all_results = []
 
-# === 폴더 내 모든 dxf 파일 처리
 for filename in os.listdir(dxf_folder):
     if filename.lower().endswith(".dxf"):
         filepath = os.path.join(dxf_folder, filename)
@@ -59,6 +46,7 @@ for filename in os.listdir(dxf_folder):
         try:
             doc = ezdxf.readfile(filepath)
             msp = doc.modelspace()
+            floor = filename.split("-")[0]
 
             for entity in msp.query("TEXT MTEXT"):
                 try:
@@ -74,17 +62,16 @@ for filename in os.listdir(dxf_folder):
                         continue
 
                     category = categorize(content)
-                    all_results.append((filename, content, category))
+                    all_results.append((filename, floor, content, category))
 
                 except Exception as e:
                     print(f"  └ 텍스트 처리 오류: {e}")
         except Exception as e:
             print(f"[❌] {filename} 읽기 실패: {e}")
 
-# === CSV로 저장
 with open(output_csv, "w", newline="", encoding="utf-8-sig") as f:
     writer = csv.writer(f)
-    writer.writerow(["filename", "text", "category"])
+    writer.writerow(["filename", "floor", "text", "category"])
     writer.writerows(all_results)
 
 print(f"\n[✔] 전체 결과 저장 완료: {output_csv}")
