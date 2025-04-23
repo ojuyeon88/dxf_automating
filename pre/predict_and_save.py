@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
 import pymysql
 
-csv_path = "AI/data/text_category_all.csv"
+csv_path = "pre/data/text_category_all.csv"
 vectorizer_path = "model/vectorizer.pkl"
 model_path = "model/model.pkl"
 
@@ -44,8 +44,8 @@ if USE_DATABASE:
             cursor.execute(sql, (
                 row["text"],
                 row["predicted_category"],
-                None,  # 좌표 미지정 상태
-                None,
+                row["center_x"], 
+                row["center_y"],
                 row["floor"]
             ))
 

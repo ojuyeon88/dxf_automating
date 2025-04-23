@@ -6,7 +6,7 @@ import os
 
 # 설정
 dxf_folder = "files/dxf"
-output_csv = "AI/data/text_category_all.csv"
+output_csv = "pre/data/text_category_all.csv"
 
 # 키워드
 KEYWORDS = ['호', '실', '강의실', '계단', '화장실', '세미나', '회의', '휴게', '엘리베이터', '전기', '기계']
@@ -72,7 +72,7 @@ for filename in os.listdir(dxf_folder):
 
 with open(output_csv, "w", newline="", encoding="utf-8-sig") as f:
     writer = csv.writer(f)
-    writer.writerow(["filename", "floor", "text", "category"])
+    writer.writerow(["filename", "floor", "text", "category", "center_x", "center_y"])
     writer.writerows(all_results)
 
 print(f"\n[✔] 전체 결과 저장 완료: {output_csv}")
@@ -83,7 +83,7 @@ import pickle
 import pandas as pd
 import pymysql
 
-csv_path = "AI/data/text_category_all.csv"
+csv_path = "pre/data/text_category_all.csv"
 vectorizer_path = "model/vectorizer.pkl"
 model_path = "model/model.pkl"
 
@@ -125,8 +125,8 @@ if USE_DATABASE:
             cursor.execute(sql, (
                 row["text"],
                 row["predicted_category"],
-                None,  # 좌표 미지정 상태
-                None,
+                row["center_x"], 
+                row["center_y"],
                 row["floor"]
             ))
 

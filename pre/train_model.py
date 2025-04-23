@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
 
 # 학습용 CSV 경로
-csv_path = "AI/data/text_category_all.csv"
+csv_path = "pre/data/text_category_all.csv"
 
 # 데이터 불러오기
 df = pd.read_csv(csv_path)

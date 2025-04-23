@@ -1,498 +1,462 @@
-﻿filename,floor,text,category
-1F-autosync.dxf,1F,숙직실,lounge
-1F-autosync.dxf,1F,학생휴게실,lounge
-1F-autosync.dxf,1F,PS실,ps
-1F-autosync.dxf,1F,계단실,stair
-1F-autosync.dxf,1F,계단실,stair
-1F-autosync.dxf,1F,강의실,lecture
-1F-autosync.dxf,1F,여자화장실,restroom
-1F-autosync.dxf,1F,남자화장실,restroom
-1F-autosync.dxf,1F,강의실,lecture
-1F-autosync.dxf,1F,장애인화장실(남),restroom
-1F-autosync.dxf,1F,PS실,ps
-1F-autosync.dxf,1F,PS실,ps
-1F-autosync.dxf,1F,계단실,stair
-1F-autosync.dxf,1F,남자화장실,restroom
-1F-autosync.dxf,1F,PS실,ps
-1F-autosync.dxf,1F,방풍실,misc
-1F-autosync.dxf,1F,ELEV실,elevator
-1F-autosync.dxf,1F,여자화장실,restroom
-1F-autosync.dxf,1F,PS실,ps
-1F-autosync.dxf,1F,PS실,ps
-1F-autosync.dxf,1F,ELEV실,elevator
-1F-autosync.dxf,1F,전산실습실,lab
-1F-autosync.dxf,1F,방재실/관리실,misc
-1F-autosync.dxf,1F,메카트로닉스/필드로봇연구실Ⅰ,lab
-1F-autosync.dxf,1F,기계공학부,ps
-1F-autosync.dxf,1F,강의실,lecture
-1F-autosync.dxf,1F,방풍실,misc
-1F-autosync.dxf,1F,계단강의실,lecture
-1F-autosync.dxf,1F,계단강의실,lecture
-2F-autosync.dxf,2F,창의관 지상 2층 평면도,misc
-2F-autosync.dxf,2F,기계공학부 CAD실,ps
-2F-autosync.dxf,2F,기계공학부,ps
-2F-autosync.dxf,2F,부원장실,office
-2F-autosync.dxf,2F,세미나실,seminar
-2F-autosync.dxf,2F,강의실,lecture
-2F-autosync.dxf,2F,기술경영전문대학원행정실,office
-2F-autosync.dxf,2F,강의실,lecture
-2F-autosync.dxf,2F,독서실,lounge
-2F-autosync.dxf,2F,강의실,lecture
-2F-autosync.dxf,2F,부속실,office
-2F-autosync.dxf,2F,세미나실,seminar
-2F-autosync.dxf,2F,동작분석실,lab
-2F-autosync.dxf,2F,기계공학부,ps
-2F-autosync.dxf,2F,지능 sys 및 로보틱스 연구실 Ⅱ,lab
-2F-autosync.dxf,2F,기계공학부,ps
-2F-autosync.dxf,2F,인간기계시스템연구실Ⅰ,ps
-2F-autosync.dxf,2F,기계공학부,ps
-2F-autosync.dxf,2F,계단실,stair
-2F-autosync.dxf,2F,PS실,ps
-2F-autosync.dxf,2F,PS실,ps
-2F-autosync.dxf,2F,계단실,stair
-2F-autosync.dxf,2F,ELEV실,elevator
-2F-autosync.dxf,2F,방풍실,misc
-2F-autosync.dxf,2F,ELEV실,elevator
-2F-autosync.dxf,2F,PS실,ps
-2F-autosync.dxf,2F,화장실(여),restroom
-2F-autosync.dxf,2F,PS실,ps
-2F-autosync.dxf,2F,남자화장실,restroom
-3F-autosync.dxf,3F,창의관 지상 3층 평면도,misc
-3F-autosync.dxf,3F,연구교수연구실/정보통신 Testbed실,office
-3F-autosync.dxf,3F,기계공학부 세미나실,ps
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,기계공학부 세미나실,ps
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,나노바이오유체시스템연구실Ⅰ,lab
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,바이오나노진동시스템연구실Ⅰ,lab
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,에너지시스템 및 터보기계 연구실,ps
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,정밀기술연구실,lab
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,냉동공조 및 이상유동 연구실,lab
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,냉동공조 및 이상유동 연구실Ⅱ,lab
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,근골격생체역학연구실,lab
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,정보네트워크연구실,lab
-3F-autosync.dxf,3F,정보네트워크연구실,lab
-3F-autosync.dxf,3F,건축환경및에너지 시스템연구실,lab
-3F-autosync.dxf,3F,이광호,misc
-3F-autosync.dxf,3F,지능로봇연구실Ⅱ,lab
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,지능로봇실험실Ⅰ,lab
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,PS실,ps
-3F-autosync.dxf,3F,ELEV실,elevator
-3F-autosync.dxf,3F,PS실,ps
-3F-autosync.dxf,3F,화장실(여),restroom
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,전기전자공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,교수연구실,office
-3F-autosync.dxf,3F,기계공학부,ps
-3F-autosync.dxf,3F,계단실,stair
-3F-autosync.dxf,3F,PS실,ps
-3F-autosync.dxf,3F,ELEV실,elevator
-3F-autosync.dxf,3F,계단실,stair
-3F-autosync.dxf,3F,PS실,ps
-3F-autosync.dxf,3F,화장실(남),restroom
-4F-autosync.dxf,4F,창의관 지상 4층 평면도,misc
-4F-autosync.dxf,4F,기계공학부행정실,ps
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,기계공학부 세미나실,ps
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,최병호,misc
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,기계공학부 정보자료실,ps
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,기계공학부 자료실,ps
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,이호성,misc
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,교수연구실,office
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,PS실,ps
-4F-autosync.dxf,4F,화장실(남),restroom
-4F-autosync.dxf,4F,화장실(여),restroom
-4F-autosync.dxf,4F,PS실,ps
-4F-autosync.dxf,4F,ELEV실,elevator
-4F-autosync.dxf,4F,ELEV실,elevator
-4F-autosync.dxf,4F,PS실,ps
-4F-autosync.dxf,4F,계단실,stair
-4F-autosync.dxf,4F,계단실,stair
-4F-autosync.dxf,4F,PS실,ps
-4F-autosync.dxf,4F,멀티스케일자연모사기계연구실,ps
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,나노에너지 및 열유체연구실,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,신뢰성평가연구실Ⅰ,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,엔지니어링 정보융합 연구실 I,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,지능로봇 연구실Ⅰ,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,기계설계 및 CAD 연구실Ⅰ,ps
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,멀티스케일 유체공학 연구실,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,멀티스케일전달현상 연구실,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,지능시스템 및 로보틱스연구실Ⅰ,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,나노에너지전달/변환 연구실,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,초미세생체시스템연구실,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,구)CAE 연구실Ⅰ,lab
-4F-autosync.dxf,4F,기계공학부,ps
-4F-autosync.dxf,4F,이호성,misc
-5F-autosync.dxf,5F,창의관 지상 5층 평면도,misc
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,전기전자공학부,ps
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,전기전자공학부,ps
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,전기전자공학부,ps
-5F-autosync.dxf,5F,나노에너지전달/변환 실험실,lab
-5F-autosync.dxf,5F,기계공학부,ps
-5F-autosync.dxf,5F,초미세생체시스템연구실Ⅱ,lab
-5F-autosync.dxf,5F,기계공학부,ps
-5F-autosync.dxf,5F,전기화학에너지연구실,ps
-5F-autosync.dxf,5F,유승호,misc
-5F-autosync.dxf,5F,신뢰성평가연구실,lab
-5F-autosync.dxf,5F,중수소 생선 기초연구실,lab
-5F-autosync.dxf,5F,초미세생체시스템실험실,lab
-5F-autosync.dxf,5F,초빙교수연구실,office
-5F-autosync.dxf,5F,ELEV실,elevator
-5F-autosync.dxf,5F,PS실,ps
-5F-autosync.dxf,5F,ELEV실,elevator
-5F-autosync.dxf,5F,PS실,ps
-5F-autosync.dxf,5F,여자화장실,restroom
-5F-autosync.dxf,5F,냉동공조 및 이상유동연구실,lab
-5F-autosync.dxf,5F,나노바이오유체시스템연구실,lab
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,전실,misc
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,전기전자공학부,ps
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,정보소자재료연구실,lab
-5F-autosync.dxf,5F,PS실,ps
-5F-autosync.dxf,5F,계단실,stair
-5F-autosync.dxf,5F,PS실,ps
-5F-autosync.dxf,5F,화장실(남),restroom
-5F-autosync.dxf,5F,계단실,stair
-5F-autosync.dxf,5F,전산역학 및 최적설계연구실,lab
-5F-autosync.dxf,5F,기계공학부,ps
-5F-autosync.dxf,5F,열유체공학연구실,lab
-5F-autosync.dxf,5F,기계공학부,ps
-5F-autosync.dxf,5F,나노바이오유체시스템연구실,lab
-5F-autosync.dxf,5F,기계공학부,ps
-5F-autosync.dxf,5F,융합에너지공학 PBL 실험실습실,lab
-5F-autosync.dxf,5F,지능시스템 및 로봇틱스연구실,lab
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,교수연구실,office
-5F-autosync.dxf,5F,학생연구실,lab
-5F-autosync.dxf,5F,교수연구실,office
-6F-autosync.dxf,6F,창의관 지상 6층 평면도,misc
-6F-autosync.dxf,6F,구조공학역학연구실,lab
-6F-autosync.dxf,6F,나노소재 및 소자 연구실,lab
-6F-autosync.dxf,6F,촉매및반응공학연구실,lab
-6F-autosync.dxf,6F,차세대재료물성평가연구실,lab
-6F-autosync.dxf,6F,최병호,misc
-6F-autosync.dxf,6F,에너지물질순환연구실,lab
-6F-autosync.dxf,6F,나노바이오촉매연구실,lab
-6F-autosync.dxf,6F,엔지니어링 정보융합 연구실 II,lab
-6F-autosync.dxf,6F,기계공학부,ps
-6F-autosync.dxf,6F,에너지물질순환연구실,lab
-6F-autosync.dxf,6F,여자화장실,restroom
-6F-autosync.dxf,6F,PS실,ps
-6F-autosync.dxf,6F,ELEV실,elevator
-6F-autosync.dxf,6F,남자화장실,restroom
-6F-autosync.dxf,6F,PS실,ps
-6F-autosync.dxf,6F,계단실,stair
-6F-autosync.dxf,6F,PS실,ps
-6F-autosync.dxf,6F,PS실,ps
-6F-autosync.dxf,6F,ELEV실,elevator
-6F-autosync.dxf,6F,에너지물질순환연구실,lab
-6F-autosync.dxf,6F,기계공학부,ps
-6F-autosync.dxf,6F,태양전지연구실,lab
-6F-autosync.dxf,6F,태양전지연구실,lab
-6F-autosync.dxf,6F,차세대배터리시스템연구실,lab
-6F-autosync.dxf,6F,기계공학부,ps
-6F-autosync.dxf,6F,반도체공학과행정실,office
-6F-autosync.dxf,6F,반도체공학과행정실,office
-6F-autosync.dxf,6F,구조해석연구실,lab
-6F-autosync.dxf,6F,기계공학부,ps
-6F-autosync.dxf,6F,차세대기계설계연구소/에너지기술공동연구소,ps
-6F-autosync.dxf,6F,나노생명공학연구실,lab
-6F-autosync.dxf,6F,기계공학부,ps
-6F-autosync.dxf,6F,계단실,stair
-6F-autosync.dxf,6F,멀티스케일자연모사기계연구실,ps
-7F-autosync.dxf,7F,창의관 지상 7층 평면도,misc
-7F-autosync.dxf,7F,나노에너지융합시스템연구실,lab
-7F-autosync.dxf,7F,계단실,stair
-7F-autosync.dxf,7F,이호성,misc
-7F-autosync.dxf,7F,차세대 나노 광소자 연구실,lab
-7F-autosync.dxf,7F,스마트다기능소자연구실,lab
-7F-autosync.dxf,7F,기계공학부,ps
-7F-autosync.dxf,7F,교수연구실,office
-7F-autosync.dxf,7F,전기전자공학부,ps
-7F-autosync.dxf,7F,최적에너지변환시스템연구실,lab
-7F-autosync.dxf,7F,이호성,misc
-7F-autosync.dxf,7F,교수연구실,office
-7F-autosync.dxf,7F,계단실,stair
-7F-autosync.dxf,7F,PS실,ps
-7F-autosync.dxf,7F,화장실(남),restroom
-7F-autosync.dxf,7F,PS실,ps
-7F-autosync.dxf,7F,ELEV실,elevator
-7F-autosync.dxf,7F,PS실,ps
-7F-autosync.dxf,7F,ELEV실,elevator
-7F-autosync.dxf,7F,지능신호처리연구센터,misc
-7F-autosync.dxf,7F,환경중심신조재공정연구실,lab
-7F-autosync.dxf,7F,이준호,misc
-7F-autosync.dxf,7F,BK21플러스 창의부픔소재사업단,misc
-7F-autosync.dxf,7F,교수연구실,office
-7F-autosync.dxf,7F,유승호,misc
-7F-autosync.dxf,7F,교수연구실,office
-7F-autosync.dxf,7F,나노에너지융합시스템연구실,lab
-7F-autosync.dxf,7F,자기메모리소재연구실,lab
-7F-autosync.dxf,7F,건축학과 설계실,misc
-7F-autosync.dxf,7F,자동차융합학과 행정실,office
-7F-autosync.dxf,7F,신재생 에너지시스템 연구실,lab
-7F-autosync.dxf,7F,나노전달현상연구실,lab
-7F-autosync.dxf,7F,에너지저장 및 변환재료연구실,lab
-7F-autosync.dxf,7F,스마트다기능소자연구실,lab
-7F-autosync.dxf,7F,멀티스케일 자연모사 기계연구실,ps
-7F-autosync.dxf,7F,나노광전소재 연구실,lab
-7F-autosync.dxf,7F,PS실,ps
-7F-autosync.dxf,7F,화장실(여),restroom
-8F-autosync.dxf,8F,창의관 지상 8층 평면도,misc
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,김현호,misc
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,기계공학부,ps
-8F-autosync.dxf,8F,나노텍 응용 연구실,lab
-8F-autosync.dxf,8F,매카트로닉스앤필드로보틱스연구실,lab
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,기계공학부,ps
-8F-autosync.dxf,8F,매카트로닉스앤필드로보틱스연구실,lab
-8F-autosync.dxf,8F,기계공학부,ps
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,기계공학부,ps
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,매카트로닉스앤필드로보틱스연구실,lab
-8F-autosync.dxf,8F,계단실,stair
-8F-autosync.dxf,8F,ELEV실,elevator
-8F-autosync.dxf,8F,화장실(남),restroom
-8F-autosync.dxf,8F,PS실,ps
-8F-autosync.dxf,8F,ELEV실,elevator
-8F-autosync.dxf,8F,PS실,ps
-8F-autosync.dxf,8F,PS실,ps
-8F-autosync.dxf,8F,화장실(여),restroom
-8F-autosync.dxf,8F,계단실,stair
-8F-autosync.dxf,8F,PS실,ps
-8F-autosync.dxf,8F,나노소자연구실,lab
-8F-autosync.dxf,8F,전실,misc
-8F-autosync.dxf,8F,전실,misc
-8F-autosync.dxf,8F,전실,misc
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,연구실/실험실,lab
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,전기전자공학부,ps
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,전산유체역학연구실,lab
-8F-autosync.dxf,8F,기계공학부,ps
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,전기전자공학부,ps
-8F-autosync.dxf,8F,에너지물질순환연구실,lab
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,분자생물공학연구실,lab
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,윤성호,misc
-8F-autosync.dxf,8F,교수연구실,office
-8F-autosync.dxf,8F,교수연구실,office
-B1F-autosync.dxf,B1F,창의관 지하 2층 평면도,misc
-B1F-autosync.dxf,B1F,"B210호실 48.41㎡, B210-1호실 23㎡ 중첩됨",misc
-B1F-autosync.dxf,B1F,공조실,misc
-B1F-autosync.dxf,B1F,발전기실,ps
-B1F-autosync.dxf,B1F,변전실,misc
-B1F-autosync.dxf,B1F,계단실,stair
-B1F-autosync.dxf,B1F,PS실,ps
-B1F-autosync.dxf,B1F,바이오나노진동 시스템연구실Ⅱ,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,멀티스케일 유체공학 연구실,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,건축사회환경공학부 수리학실험실 펌프실(내부),lab
-B1F-autosync.dxf,B1F,건축사회환경공학부 수리학실험실 저수조(내부),lab
-B1F-autosync.dxf,B1F,보관실,misc
-B1F-autosync.dxf,B1F,열유체공학 실습실,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,차세대 재료물성 평가연구실Ⅱ,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,최병호,misc
-B1F-autosync.dxf,B1F,차세대재료물성평가실험실Ⅰ,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,최병호,misc
-B1F-autosync.dxf,B1F,수리학실험실,lab
-B1F-autosync.dxf,B1F,냉동공조 및 이상유동 실험실,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,정밀기술 실험실,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,냉동공조 및 이상유동 실험실Ⅱ,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,근골격생체역학연구실,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,바이오나노진동 시스템연구실Ⅱ,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,정밀측정실,misc
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,화장실(여),restroom
-B1F-autosync.dxf,B1F,PS실,ps
-B1F-autosync.dxf,B1F,PS실,ps
-B1F-autosync.dxf,B1F,화장실(남),restroom
-B1F-autosync.dxf,B1F,PS실,ps
-B1F-autosync.dxf,B1F,PS실,ps
-B1F-autosync.dxf,B1F,ELEV실,elevator
-B1F-autosync.dxf,B1F,ELEV실,elevator
-B1F-autosync.dxf,B1F,PS실,ps
-B1F-autosync.dxf,B1F,계단실,stair
-B1F-autosync.dxf,B1F,PS실,ps
-B1F-autosync.dxf,B1F,PS실,ps
-B1F-autosync.dxf,B1F,중앙감시실,misc
-B1F-autosync.dxf,B1F,숙직실,lounge
-B1F-autosync.dxf,B1F,한국델켐 기계공작 실습실,ps
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,준비실,misc
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,공구실,misc
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,신재생에너지시스템실험실,lab
-B1F-autosync.dxf,B1F,기계공학부,ps
-B1F-autosync.dxf,B1F,전기실출입신청용,ps
-B2F-autosync.dxf,B2F,창의관 지하 2층 평면도,misc
-B2F-autosync.dxf,B2F,"B210호실 48.41㎡, B210-1호실 23㎡ 중첩됨",misc
-B2F-autosync.dxf,B2F,공조실,misc
-B2F-autosync.dxf,B2F,발전기실,ps
-B2F-autosync.dxf,B2F,변전실,misc
-B2F-autosync.dxf,B2F,계단실,stair
-B2F-autosync.dxf,B2F,PS실,ps
-B2F-autosync.dxf,B2F,바이오나노진동 시스템연구실Ⅱ,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,멀티스케일 유체공학 연구실,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,건축사회환경공학부 수리학실험실 펌프실(내부),lab
-B2F-autosync.dxf,B2F,건축사회환경공학부 수리학실험실 저수조(내부),lab
-B2F-autosync.dxf,B2F,보관실,misc
-B2F-autosync.dxf,B2F,열유체공학 실습실,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,차세대 재료물성 평가연구실Ⅱ,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,최병호,misc
-B2F-autosync.dxf,B2F,차세대재료물성평가실험실Ⅰ,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,최병호,misc
-B2F-autosync.dxf,B2F,수리학실험실,lab
-B2F-autosync.dxf,B2F,냉동공조 및 이상유동 실험실,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,정밀기술 실험실,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,냉동공조 및 이상유동 실험실Ⅱ,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,근골격생체역학연구실,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,바이오나노진동 시스템연구실Ⅱ,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,정밀측정실,misc
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,화장실(여),restroom
-B2F-autosync.dxf,B2F,PS실,ps
-B2F-autosync.dxf,B2F,PS실,ps
-B2F-autosync.dxf,B2F,화장실(남),restroom
-B2F-autosync.dxf,B2F,PS실,ps
-B2F-autosync.dxf,B2F,PS실,ps
-B2F-autosync.dxf,B2F,ELEV실,elevator
-B2F-autosync.dxf,B2F,ELEV실,elevator
-B2F-autosync.dxf,B2F,PS실,ps
-B2F-autosync.dxf,B2F,계단실,stair
-B2F-autosync.dxf,B2F,PS실,ps
-B2F-autosync.dxf,B2F,PS실,ps
-B2F-autosync.dxf,B2F,중앙감시실,misc
-B2F-autosync.dxf,B2F,숙직실,lounge
-B2F-autosync.dxf,B2F,한국델켐 기계공작 실습실,ps
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,준비실,misc
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,공구실,misc
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,신재생에너지시스템실험실,lab
-B2F-autosync.dxf,B2F,기계공학부,ps
-B2F-autosync.dxf,B2F,전기실출입신청용,ps
+﻿filename,floor,text,category,center_x,center_y
+1F-autosync.dxf,1,숙직실,lounge,80780.0,17770.0
+1F-autosync.dxf,1,학생휴게실,lounge,12550.0,40020.0
+1F-autosync.dxf,1,PS실,ps,64860.0,30760.0
+1F-autosync.dxf,1,계단실,stair,20050.0,33450.0
+1F-autosync.dxf,1,계단실,stair,16830.0,33660.0
+1F-autosync.dxf,1,강의실,lecture,25660.0,19960.0
+1F-autosync.dxf,1,여자화장실,restroom,33090.0,19950.0
+1F-autosync.dxf,1,남자화장실,restroom,36960.0,19510.0
+1F-autosync.dxf,1,강의실,lecture,50960.0,19960.0
+1F-autosync.dxf,1,장애인화장실(남),restroom,61770.0,29280.0
+1F-autosync.dxf,1,PS실,ps,67160.0,29260.0
+1F-autosync.dxf,1,PS실,ps,71170.0,29260.0
+1F-autosync.dxf,1,계단실,stair,69170.0,33370.0
+1F-autosync.dxf,1,남자화장실,restroom,63110.0,34310.0
+1F-autosync.dxf,1,PS실,ps,61970.0,35760.0
+1F-autosync.dxf,1,방풍실,misc,59720.0,35460.0
+1F-autosync.dxf,1,ELEV실,elevator,76320.0,31260.0
+1F-autosync.dxf,1,여자화장실,restroom,82510.0,31340.0
+1F-autosync.dxf,1,PS실,ps,80900.0,31540.0
+1F-autosync.dxf,1,PS실,ps,80870.0,35760.0
+1F-autosync.dxf,1,ELEV실,elevator,83920.0,35760.0
+1F-autosync.dxf,1,전산실습실,lab,87240.0,26350.0
+1F-autosync.dxf,1,방재실/관리실,misc,81730.0,22540.0
+1F-autosync.dxf,1,메카트로닉스/필드로봇연구실Ⅰ,lab,67020.0,45140.0
+1F-autosync.dxf,1,기계공학부,ps,71520.0,46040.0
+1F-autosync.dxf,1,강의실,lecture,84520.0,43370.0
+1F-autosync.dxf,1,방풍실,misc,68870.0,16810.0
+1F-autosync.dxf,1,계단강의실,lecture,51950.0,33190.0
+1F-autosync.dxf,1,계단강의실,lecture,29260.0,37710.0
+2F-autosync.dxf,2,기계공학부 기계공학부 CAD실,ps,36450.0,32980.0
+2F-autosync.dxf,2,부원장실,office,87880.0,19950.0
+2F-autosync.dxf,2,세미나실,seminar,87300.0,26200.0
+2F-autosync.dxf,2,강의실,lecture,32850.0,25800.0
+2F-autosync.dxf,2,기술경영전문대학원행정실,office,82480.0,20390.0
+2F-autosync.dxf,2,강의실,lecture,47250.0,25800.0
+2F-autosync.dxf,2,독서실,lounge,56260.0,21280.0
+2F-autosync.dxf,2,강의실,lecture,18550.0,25800.0
+2F-autosync.dxf,2,부속실,office,82480.0,25200.0
+2F-autosync.dxf,2,세미나실,seminar,57960.0,32980.0
+2F-autosync.dxf,2,동작분석실,lab,50860.0,32980.0
+2F-autosync.dxf,2,기계공학부,ps,50860.0,32980.0
+2F-autosync.dxf,2,지능 sys 및 로보틱스 연구실 Ⅱ,lab,20150.0,32980.0
+2F-autosync.dxf,2,기계공학부,ps,23850.0,32980.0
+2F-autosync.dxf,2,인간기계시스템연구실Ⅰ,ps,17600.0,33910.0
+2F-autosync.dxf,2,기계공학부,ps,20150.0,32980.0
+2F-autosync.dxf,2,계단실,stair,16700.0,34000.0
+2F-autosync.dxf,2,PS실,ps,64400.0,30450.0
+2F-autosync.dxf,2,PS실,ps,83890.0,35740.0
+2F-autosync.dxf,2,계단실,stair,69160.0,32980.0
+2F-autosync.dxf,2,ELEV실,elevator,80860.0,35740.0
+2F-autosync.dxf,2,방풍실,misc,73870.0,40270.0
+2F-autosync.dxf,2,ELEV실,elevator,77560.0,31260.0
+2F-autosync.dxf,2,PS실,ps,80410.0,31260.0
+2F-autosync.dxf,2,화장실(여),restroom,82980.0,31490.0
+2F-autosync.dxf,2,PS실,ps,61960.0,35740.0
+2F-autosync.dxf,2,남자화장실,restroom,62820.0,33950.0
+3F-autosync.dxf,3,연구교수연구실/정보통신 Testbed실,office,85070.0,21280.0
+3F-autosync.dxf,3,기계공학부 세미나실,ps,75960.0,21170.0
+3F-autosync.dxf,3,기계공학부,ps,79670.0,21280.0
+3F-autosync.dxf,3,기계공학부 기계공학부 세미나실,ps,85070.0,21280.0
+3F-autosync.dxf,3,나노바이오유체시스템연구실Ⅰ,lab,56260.0,31590.0
+3F-autosync.dxf,3,기계공학부,ps,59740.0,31590.0
+3F-autosync.dxf,3,바이오나노진동시스템연구실Ⅰ,lab,52660.0,31590.0
+3F-autosync.dxf,3,기계공학부,ps,56260.0,31590.0
+3F-autosync.dxf,3,기계공학부 에너지시스템 및 터보기계 연구실,ps,49060.0,31590.0
+3F-autosync.dxf,3,기계공학부,ps,52660.0,31590.0
+3F-autosync.dxf,3,정밀기술연구실,lab,49060.0,31590.0
+3F-autosync.dxf,3,냉동공조 및 이상유동 연구실,lab,41860.0,31590.0
+3F-autosync.dxf,3,기계공학부,ps,45460.0,31590.0
+3F-autosync.dxf,3,냉동공조 및 이상유동 연구실Ⅱ,lab,38260.0,31590.0
+3F-autosync.dxf,3,기계공학부,ps,41860.0,31590.0
+3F-autosync.dxf,3,근골격생체역학연구실,lab,36310.0,30400.0
+3F-autosync.dxf,3,기계공학부,ps,38260.0,31590.0
+3F-autosync.dxf,3,정보네트워크연구실,lab,32860.0,33250.0
+3F-autosync.dxf,3,정보네트워크연구실,lab,27450.0,31590.0
+3F-autosync.dxf,3,건축환경및에너지 시스템연구실,lab,24490.0,34350.0
+3F-autosync.dxf,3,이광호,misc,27450.0,31590.0
+3F-autosync.dxf,3,지능로봇연구실Ⅱ,lab,22060.0,33420.0
+3F-autosync.dxf,3,기계공학부,ps,23850.0,31590.0
+3F-autosync.dxf,3,지능로봇실험실Ⅰ,lab,17400.0,32390.0
+3F-autosync.dxf,3,기계공학부,ps,20150.0,31590.0
+3F-autosync.dxf,3,PS실,ps,61940.0,35820.0
+3F-autosync.dxf,3,ELEV실,elevator,77400.0,30030.0
+3F-autosync.dxf,3,PS실,ps,79770.0,30580.0
+3F-autosync.dxf,3,화장실(여),restroom,83440.0,31260.0
+3F-autosync.dxf,3,교수연구실,office,72830.0,20960.0
+3F-autosync.dxf,3,기계공학부,ps,72830.0,20960.0
+3F-autosync.dxf,3,교수연구실,office,67060.0,19830.0
+3F-autosync.dxf,3,기계공학부,ps,67060.0,19830.0
+3F-autosync.dxf,3,교수연구실,office,57790.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,57790.0,23210.0
+3F-autosync.dxf,3,교수연구실,office,53760.0,21300.0
+3F-autosync.dxf,3,기계공학부,ps,53760.0,21300.0
+3F-autosync.dxf,3,교수연구실,office,25380.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,25380.0,23210.0
+3F-autosync.dxf,3,교수연구실,office,11060.0,19480.0
+3F-autosync.dxf,3,기계공학부,ps,11060.0,19480.0
+3F-autosync.dxf,3,교수연구실,office,14580.0,23210.0
+3F-autosync.dxf,3,전기전자공학부,ps,14580.0,23210.0
+3F-autosync.dxf,3,교수연구실,office,18180.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,18450.0,16800.0
+3F-autosync.dxf,3,교수연구실,office,21780.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,21780.0,23210.0
+3F-autosync.dxf,3,교수연구실,office,28990.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,28990.0,23210.0
+3F-autosync.dxf,3,교수연구실,office,32580.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,32860.0,16800.0
+3F-autosync.dxf,3,교수연구실,office,36190.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,36190.0,23210.0
+3F-autosync.dxf,3,교수연구실,office,39790.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,40060.0,16800.0
+3F-autosync.dxf,3,교수연구실,office,43390.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,43390.0,23210.0
+3F-autosync.dxf,3,교수연구실,office,46990.0,23210.0
+3F-autosync.dxf,3,기계공학부,ps,47260.0,16800.0
+3F-autosync.dxf,3,교수연구실,office,70660.0,19830.0
+3F-autosync.dxf,3,교수연구실,office,63460.0,19830.0
+3F-autosync.dxf,3,기계공학부,ps,63460.0,19830.0
+3F-autosync.dxf,3,계단실,stair,15930.0,32390.0
+3F-autosync.dxf,3,PS실,ps,83890.0,35820.0
+3F-autosync.dxf,3,ELEV실,elevator,80700.0,35570.0
+3F-autosync.dxf,3,계단실,stair,68000.0,33200.0
+3F-autosync.dxf,3,PS실,ps,62800.0,29920.0
+3F-autosync.dxf,3,화장실(남),restroom,63690.0,34000.0
+4F-autosync.dxf,4,기계공학부 기계공학부행정실,ps,72470.0,19950.0
+4F-autosync.dxf,4,기계공학부 세미나실,ps,76070.0,21250.0
+4F-autosync.dxf,4,기계공학부,ps,79670.0,21490.0
+4F-autosync.dxf,4,교수연구실,office,11170.0,20220.0
+4F-autosync.dxf,4,기계공학부,ps,11170.0,20220.0
+4F-autosync.dxf,4,최병호,misc,11170.0,20220.0
+4F-autosync.dxf,4,교수연구실,office,14880.0,19780.0
+4F-autosync.dxf,4,기계공학부,ps,14880.0,19780.0
+4F-autosync.dxf,4,기계공학부 기계공학부 정보자료실,ps,61660.0,20030.0
+4F-autosync.dxf,4,교수연구실,office,58070.0,19780.0
+4F-autosync.dxf,4,기계공학부,ps,58070.0,19780.0
+4F-autosync.dxf,4,교수연구실,office,47270.0,20030.0
+4F-autosync.dxf,4,기계공학부,ps,47270.0,20030.0
+4F-autosync.dxf,4,교수연구실,office,43670.0,19780.0
+4F-autosync.dxf,4,기계공학부,ps,43670.0,19780.0
+4F-autosync.dxf,4,교수연구실,office,54470.0,20030.0
+4F-autosync.dxf,4,기계공학부,ps,54470.0,20030.0
+4F-autosync.dxf,4,교수연구실,office,18480.0,20030.0
+4F-autosync.dxf,4,기계공학부,ps,18480.0,20030.0
+4F-autosync.dxf,4,교수연구실,office,29280.0,19780.0
+4F-autosync.dxf,4,기계공학부,ps,29280.0,19780.0
+4F-autosync.dxf,4,교수연구실,office,40070.0,20030.0
+4F-autosync.dxf,4,기계공학부,ps,40070.0,20030.0
+4F-autosync.dxf,4,교수연구실,office,25680.0,20030.0
+4F-autosync.dxf,4,기계공학부,ps,25680.0,20030.0
+4F-autosync.dxf,4,교수연구실,office,36470.0,19780.0
+4F-autosync.dxf,4,기계공학부,ps,36470.0,19780.0
+4F-autosync.dxf,4,기계공학부 기계공학부 자료실,ps,83270.0,21580.0
+4F-autosync.dxf,4,교수연구실,office,50870.0,19780.0
+4F-autosync.dxf,4,기계공학부,ps,50870.0,19780.0
+4F-autosync.dxf,4,이호성,misc,50870.0,19780.0
+4F-autosync.dxf,4,교수연구실,office,22080.0,19780.0
+4F-autosync.dxf,4,교수연구실,office,33920.0,22780.0
+4F-autosync.dxf,4,기계공학부,ps,33920.0,22780.0
+4F-autosync.dxf,4,PS실,ps,63960.0,30140.0
+4F-autosync.dxf,4,화장실(남),restroom,62800.0,33310.0
+4F-autosync.dxf,4,화장실(여),restroom,82610.0,31130.0
+4F-autosync.dxf,4,PS실,ps,80420.0,31290.0
+4F-autosync.dxf,4,ELEV실,elevator,77590.0,31290.0
+4F-autosync.dxf,4,ELEV실,elevator,80690.0,35580.0
+4F-autosync.dxf,4,PS실,ps,83890.0,35740.0
+4F-autosync.dxf,4,계단실,stair,69160.0,33010.0
+4F-autosync.dxf,4,계단실,stair,15950.0,32390.0
+4F-autosync.dxf,4,PS실,ps,61940.0,35740.0
+4F-autosync.dxf,4,기계공학부 멀티스케일자연모사기계연구실,ps,23880.0,31510.0
+4F-autosync.dxf,4,기계공학부,ps,27480.0,31510.0
+4F-autosync.dxf,4,나노에너지 및 열유체연구실,lab,20210.0,31570.0
+4F-autosync.dxf,4,신뢰성평가연구실Ⅰ,lab,17500.0,33470.0
+4F-autosync.dxf,4,기계공학부,ps,20210.0,31570.0
+4F-autosync.dxf,4,구)CAE 연구실Ⅰ 엔지니어링 정보융합 연구실 I,lab,31070.0,31510.0
+4F-autosync.dxf,4,기계공학부,ps,34670.0,31510.0
+4F-autosync.dxf,4,지능로봇 연구실Ⅰ,lab,38270.0,31510.0
+4F-autosync.dxf,4,기계공학부 기계설계 및 CAD 연구실Ⅰ,ps,38270.0,31510.0
+4F-autosync.dxf,4,기계공학부,ps,41870.0,31510.0
+4F-autosync.dxf,4,멀티스케일 유체공학 연구실,lab,41870.0,31510.0
+4F-autosync.dxf,4,기계공학부,ps,45470.0,31510.0
+4F-autosync.dxf,4,멀티스케일전달현상 연구실,lab,47270.0,31660.0
+4F-autosync.dxf,4,기계공학부,ps,47270.0,31660.0
+4F-autosync.dxf,4,지능시스템 및 로보틱스연구실Ⅰ,lab,49070.0,31510.0
+4F-autosync.dxf,4,기계공학부,ps,50800.0,30160.0
+4F-autosync.dxf,4,나노에너지전달/변환 연구실,lab,54470.0,31750.0
+4F-autosync.dxf,4,기계공학부,ps,54470.0,31750.0
+4F-autosync.dxf,4,초미세생체시스템연구실,lab,56270.0,31510.0
+4F-autosync.dxf,4,기계공학부,ps,59740.0,31510.0
+4F-autosync.dxf,4,기계공학부,ps,31070.0,31510.0
+4F-autosync.dxf,4,이호성,misc,31070.0,31510.0
+5F-autosync.dxf,5,교수연구실,office,63470.0,21490.0
+5F-autosync.dxf,5,전기전자공학부,ps,63470.0,21490.0
+5F-autosync.dxf,5,교수연구실,office,70670.0,21490.0
+5F-autosync.dxf,5,전기전자공학부,ps,70670.0,21490.0
+5F-autosync.dxf,5,교수연구실,office,67070.0,21490.0
+5F-autosync.dxf,5,전기전자공학부,ps,67070.0,21490.0
+5F-autosync.dxf,5,나노에너지전달/변환 실험실,lab,18480.0,25910.0
+5F-autosync.dxf,5,기계공학부,ps,18480.0,25910.0
+5F-autosync.dxf,5,융합에너지공학 PBL 실험실습실 초미세생체시스템연구실Ⅱ,lab,23880.0,21490.0
+5F-autosync.dxf,5,기계공학부,ps,23880.0,21490.0
+5F-autosync.dxf,5,전기화학에너지연구실,ps,38280.0,21490.0
+5F-autosync.dxf,5,유승호,misc,41850.0,21490.0
+5F-autosync.dxf,5,신뢰성평가연구실,lab,45440.0,21490.0
+5F-autosync.dxf,5,중수소 생선 기초연구실,lab,52660.0,21140.0
+5F-autosync.dxf,5,초미세생체시스템실험실,lab,11050.0,23440.0
+5F-autosync.dxf,5,초빙교수연구실,office,52660.0,21140.0
+5F-autosync.dxf,5,ELEV실,elevator,76320.0,31260.0
+5F-autosync.dxf,5,PS실,ps,79770.0,30310.0
+5F-autosync.dxf,5,ELEV실,elevator,80700.0,35580.0
+5F-autosync.dxf,5,PS실,ps,83410.0,33300.0
+5F-autosync.dxf,5,여자화장실,restroom,82980.0,31570.0
+5F-autosync.dxf,5,냉동공조 및 이상유동연구실,lab,34680.0,32960.0
+5F-autosync.dxf,5,나노바이오유체시스템연구실,lab,45290.0,28870.0
+5F-autosync.dxf,5,교수연구실,office,52420.0,35410.0
+5F-autosync.dxf,5,전실,misc,54470.0,31150.0
+5F-autosync.dxf,5,교수연구실,office,56520.0,35410.0
+5F-autosync.dxf,5,전기전자공학부,ps,54470.0,35060.0
+5F-autosync.dxf,5,교수연구실,office,48820.0,34710.0
+5F-autosync.dxf,5,교수연구실,office,57740.0,31190.0
+5F-autosync.dxf,5,교수연구실,office,58580.0,33060.0
+5F-autosync.dxf,5,정보소자재료연구실,lab,41830.0,32960.0
+5F-autosync.dxf,5,PS실,ps,62070.0,35740.0
+5F-autosync.dxf,5,계단실,stair,68010.0,33050.0
+5F-autosync.dxf,5,PS실,ps,64870.0,30740.0
+5F-autosync.dxf,5,화장실(남),restroom,62730.0,34630.0
+5F-autosync.dxf,5,계단실,stair,16720.0,34010.0
+5F-autosync.dxf,5,전산역학 및 최적설계연구실,lab,17510.0,33470.0
+5F-autosync.dxf,5,기계공학부,ps,21980.0,32960.0
+5F-autosync.dxf,5,열유체공학연구실 지능시스템 및 로봇틱스연구실,lab,29280.0,33640.0
+5F-autosync.dxf,5,기계공학부,ps,29280.0,32960.0
+5F-autosync.dxf,5,기계공학부,ps,45290.0,28870.0
+5F-autosync.dxf,5,교수연구실,office,85070.0,19310.0
+5F-autosync.dxf,5,교수연구실,office,81470.0,19310.0
+5F-autosync.dxf,5,교수연구실,office,77870.0,19310.0
+5F-autosync.dxf,5,교수연구실,office,74270.0,19310.0
+5F-autosync.dxf,5,학생연구실,lab,84160.0,25400.0
+5F-autosync.dxf,5,교수연구실,office,88670.0,19310.0
+6F-autosync.dxf,6,구조공학역학연구실,lab,77870.0,21490.0
+6F-autosync.dxf,6,나노소재 및 소자 연구실,lab,47220.0,22420.0
+6F-autosync.dxf,6,촉매및반응공학연구실,lab,36470.0,21490.0
+6F-autosync.dxf,6,차세대재료물성평가연구실,lab,29270.0,21490.0
+6F-autosync.dxf,6,최병호,misc,29270.0,21490.0
+6F-autosync.dxf,6,에너지물질순환연구실,lab,22070.0,21490.0
+6F-autosync.dxf,6,나노바이오촉매연구실,lab,15080.0,22670.0
+6F-autosync.dxf,6,엔지니어링 정보융합 연구실 II,lab,38990.0,32960.0
+6F-autosync.dxf,6,기계공학부,ps,38990.0,32960.0
+6F-autosync.dxf,6,에너지물질순환연구실,lab,54270.0,31600.0
+6F-autosync.dxf,6,여자화장실,restroom,82750.0,31280.0
+6F-autosync.dxf,6,PS실,ps,79760.0,30310.0
+6F-autosync.dxf,6,ELEV실,elevator,77400.0,30040.0
+6F-autosync.dxf,6,남자화장실,restroom,62830.0,34630.0
+6F-autosync.dxf,6,PS실,ps,61940.0,35740.0
+6F-autosync.dxf,6,계단실,stair,68000.0,33050.0
+6F-autosync.dxf,6,PS실,ps,64860.0,30790.0
+6F-autosync.dxf,6,PS실,ps,83400.0,33300.0
+6F-autosync.dxf,6,ELEV실,elevator,79270.0,35350.0
+6F-autosync.dxf,6,에너지물질순환연구실,lab,31510.0,31290.0
+6F-autosync.dxf,6,기계공학부,ps,37170.0,31230.0
+6F-autosync.dxf,6,태양전지연구실,lab,17500.0,33470.0
+6F-autosync.dxf,6,태양전지연구실,lab,21860.0,31240.0
+6F-autosync.dxf,6,차세대배터리시스템연구실,lab,56270.0,21490.0
+6F-autosync.dxf,6,기계공학부,ps,59870.0,21490.0
+6F-autosync.dxf,6,반도체공학과행정실,office,69050.0,22620.0
+6F-autosync.dxf,6,반도체공학과행정실,office,72660.0,22560.0
+6F-autosync.dxf,6,구조해석연구실,lab,79860.0,22540.0
+6F-autosync.dxf,6,기계공학부,ps,25240.0,31250.0
+6F-autosync.dxf,6,차세대기계설계연구소/에너지기술공동연구소,ps,57880.0,31740.0
+6F-autosync.dxf,6,나노생명공학연구실,lab,10790.0,21620.0
+6F-autosync.dxf,6,기계공학부,ps,41740.0,24670.0
+6F-autosync.dxf,6,계단실,stair,16270.0,35430.0
+6F-autosync.dxf,6,멀티스케일자연모사기계연구실,ps,83450.0,22620.0
+7F-autosync.dxf,7,나노에너지융합시스템연구실,lab,28000.0,23800.0
+7F-autosync.dxf,7,계단실,stair,16290.0,35140.0
+7F-autosync.dxf,7,이호성,misc,20230.0,32960.0
+7F-autosync.dxf,7,차세대 나노 광소자 연구실,lab,23530.0,32960.0
+7F-autosync.dxf,7,스마트다기능소자연구실,lab,52670.0,32960.0
+7F-autosync.dxf,7,기계공학부,ps,56270.0,32960.0
+7F-autosync.dxf,7,교수연구실,office,52670.0,32960.0
+7F-autosync.dxf,7,전기전자공학부,ps,52670.0,32960.0
+7F-autosync.dxf,7,나노광전소재 연구실 최적에너지변환시스템연구실,lab,40050.0,32960.0
+7F-autosync.dxf,7,이호성,misc,45470.0,32960.0
+7F-autosync.dxf,7,교수연구실,office,49070.0,32960.0
+7F-autosync.dxf,7,계단실,stair,69170.0,31810.0
+7F-autosync.dxf,7,PS실,ps,61950.0,35740.0
+7F-autosync.dxf,7,화장실(남),restroom,62350.0,33950.0
+7F-autosync.dxf,7,PS실,ps,64050.0,30840.0
+7F-autosync.dxf,7,ELEV실,elevator,80700.0,35580.0
+7F-autosync.dxf,7,PS실,ps,83590.0,33930.0
+7F-autosync.dxf,7,ELEV실,elevator,76670.0,30030.0
+7F-autosync.dxf,7,지능신호처리연구센터,misc,14880.0,22280.0
+7F-autosync.dxf,7,환경중심신조재공정연구실,lab,39670.0,22170.0
+7F-autosync.dxf,7,BK21플러스 창의부픔소재사업단 이준호,misc,41880.0,22280.0
+7F-autosync.dxf,7,교수연구실,office,59870.0,22280.0
+7F-autosync.dxf,7,유승호,misc,59870.0,22280.0
+7F-autosync.dxf,7,교수연구실,office,56270.0,22280.0
+7F-autosync.dxf,7,나노에너지융합시스템연구실,lab,25680.0,25960.0
+7F-autosync.dxf,7,자기메모리소재연구실,lab,32880.0,25960.0
+7F-autosync.dxf,7,건축학과 설계실,misc,50870.0,22280.0
+7F-autosync.dxf,7,자동차융합학과 행정실,office,61670.0,25960.0
+7F-autosync.dxf,7,신재생 에너지시스템 연구실,lab,67070.0,22280.0
+7F-autosync.dxf,7,나노전달현상연구실,lab,76070.0,22280.0
+7F-autosync.dxf,7,에너지저장 및 변환재료연구실,lab,81820.0,25600.0
+7F-autosync.dxf,7,스마트다기능소자연구실,lab,85070.0,22280.0
+7F-autosync.dxf,7,멀티스케일 자연모사 기계연구실,ps,27060.0,32960.0
+7F-autosync.dxf,7,PS실,ps,80900.0,31550.0
+7F-autosync.dxf,7,화장실(여),restroom,82980.0,31500.0
+8F-autosync.dxf,8,교수연구실,office,35740.0,22240.0
+8F-autosync.dxf,8,김현호,misc,36460.0,21270.0
+8F-autosync.dxf,8,교수연구실,office,38860.0,21270.0
+8F-autosync.dxf,8,교수연구실,office,45460.0,22270.0
+8F-autosync.dxf,8,기계공학부,ps,45460.0,22270.0
+8F-autosync.dxf,8,나노텍 응용 연구실,lab,72460.0,22270.0
+8F-autosync.dxf,8,매카트로닉스앤필드로보틱스연구실,lab,61710.0,22270.0
+8F-autosync.dxf,8,교수연구실,office,52660.0,22270.0
+8F-autosync.dxf,8,기계공학부,ps,52660.0,22270.0
+8F-autosync.dxf,8,매카트로닉스앤필드로보틱스연구실,lab,52660.0,22270.0
+8F-autosync.dxf,8,기계공학부,ps,56860.0,22270.0
+8F-autosync.dxf,8,교수연구실,office,49060.0,22270.0
+8F-autosync.dxf,8,기계공학부,ps,49060.0,22270.0
+8F-autosync.dxf,8,교수연구실,office,31660.0,21270.0
+8F-autosync.dxf,8,매카트로닉스앤필드로보틱스연구실,lab,56860.0,22270.0
+8F-autosync.dxf,8,계단실,stair,16700.0,33990.0
+8F-autosync.dxf,8,ELEV실,elevator,80700.0,35570.0
+8F-autosync.dxf,8,화장실(남),restroom,64350.0,35080.0
+8F-autosync.dxf,8,PS실,ps,61940.0,35730.0
+8F-autosync.dxf,8,ELEV실,elevator,76320.0,31250.0
+8F-autosync.dxf,8,PS실,ps,80900.0,31540.0
+8F-autosync.dxf,8,PS실,ps,64050.0,30840.0
+8F-autosync.dxf,8,화장실(여),restroom,82480.0,31850.0
+8F-autosync.dxf,8,계단실,stair,69160.0,33010.0
+8F-autosync.dxf,8,PS실,ps,83890.0,35730.0
+8F-autosync.dxf,8,나노소자연구실,lab,57940.0,32950.0
+8F-autosync.dxf,8,전실,misc,36460.0,25160.0
+8F-autosync.dxf,8,전실,misc,18350.0,25160.0
+8F-autosync.dxf,8,전실,misc,29260.0,25160.0
+8F-autosync.dxf,8,교수연구실,office,28540.0,22240.0
+8F-autosync.dxf,8,연구실/실험실,lab,23850.0,32950.0
+8F-autosync.dxf,8,교수연구실,office,20150.0,32950.0
+8F-autosync.dxf,8,전기전자공학부,ps,17480.0,33470.0
+8F-autosync.dxf,8,교수연구실,office,83350.0,23730.0
+8F-autosync.dxf,8,교수연구실,office,88820.0,22270.0
+8F-autosync.dxf,8,전산유체역학연구실,lab,39890.0,24150.0
+8F-autosync.dxf,8,기계공학부,ps,41860.0,22270.0
+8F-autosync.dxf,8,교수연구실,office,76060.0,18760.0
+8F-autosync.dxf,8,전기전자공학부,ps,83350.0,23730.0
+8F-autosync.dxf,8,에너지물질순환연구실,lab,34660.0,32950.0
+8F-autosync.dxf,8,교수연구실,office,38260.0,32950.0
+8F-autosync.dxf,8,분자생물공학연구실,lab,38260.0,32950.0
+8F-autosync.dxf,8,교수연구실,office,14030.0,22240.0
+8F-autosync.dxf,8,교수연구실,office,12280.0,21270.0
+8F-autosync.dxf,8,교수연구실,office,16490.0,22240.0
+8F-autosync.dxf,8,교수연구실,office,21340.0,22240.0
+8F-autosync.dxf,8,교수연구실,office,18940.0,22400.0
+8F-autosync.dxf,8,교수연구실,office,23740.0,22240.0
+8F-autosync.dxf,8,윤성호,misc,24460.0,21270.0
+8F-autosync.dxf,8,교수연구실,office,26860.0,21270.0
+8F-autosync.dxf,8,교수연구실,office,34060.0,21270.0
+B1F-autosync.dxf,-1,공조실,misc,47230.0,38760.0
+B1F-autosync.dxf,-1,발전기실,ps,28830.0,45970.0
+B1F-autosync.dxf,-1,계단실,stair,20100.0,33550.0
+B1F-autosync.dxf,-1,PS실,ps,20700.0,30450.0
+B1F-autosync.dxf,-1,바이오나노진동 시스템연구실Ⅱ,lab,70680.0,19640.0
+B1F-autosync.dxf,-1,기계공학부,ps,72020.0,18220.0
+B1F-autosync.dxf,-1,멀티스케일 유체공학 연구실 정밀기술 실험실,lab,59860.0,21500.0
+B1F-autosync.dxf,-1,기계공학부,ps,63460.0,21500.0
+B1F-autosync.dxf,-1,건축사회환경공학부 수리학실험실 펌프실(내부),lab,13550.0,23700.0
+B1F-autosync.dxf,-1,보관실,misc,27300.0,24900.0
+B1F-autosync.dxf,-1,열유체공학 실습실,lab,47260.0,21500.0
+B1F-autosync.dxf,-1,기계공학부,ps,47260.0,21500.0
+B1F-autosync.dxf,-1,차세대 재료물성 평가연구실Ⅱ,lab,26120.0,22580.0
+B1F-autosync.dxf,-1,기계공학부,ps,31050.0,21500.0
+B1F-autosync.dxf,-1,최병호,misc,31050.0,21500.0
+B1F-autosync.dxf,-1,차세대재료물성평가실험실Ⅰ,lab,31050.0,21500.0
+B1F-autosync.dxf,-1,기계공학부,ps,34650.0,21500.0
+B1F-autosync.dxf,-1,최병호,misc,34650.0,21500.0
+B1F-autosync.dxf,-1,수리학실험실,lab,22130.0,21700.0
+B1F-autosync.dxf,-1,냉동공조 및 이상유동 실험실,lab,77880.0,20620.0
+B1F-autosync.dxf,-1,기계공학부,ps,77880.0,20620.0
+B1F-autosync.dxf,-1,기계공학부,ps,59860.0,21500.0
+B1F-autosync.dxf,-1,냉동공조 및 이상유동 실험실Ⅱ,lab,84970.0,26330.0
+B1F-autosync.dxf,-1,기계공학부,ps,87710.0,22550.0
+B1F-autosync.dxf,-1,근골격생체역학연구실,lab,63460.0,21500.0
+B1F-autosync.dxf,-1,기계공학부,ps,67520.0,21500.0
+B1F-autosync.dxf,-1,바이오나노진동 시스템연구실Ⅱ,lab,67520.0,21500.0
+B1F-autosync.dxf,-1,기계공학부,ps,72020.0,22920.0
+B1F-autosync.dxf,-1,정밀측정실,misc,86270.0,43060.0
+B1F-autosync.dxf,-1,기계공학부,ps,86270.0,43060.0
+B1F-autosync.dxf,-1,화장실(여),restroom,83460.0,31250.0
+B1F-autosync.dxf,-1,PS실,ps,62490.0,35490.0
+B1F-autosync.dxf,-1,PS실,ps,70960.0,29510.0
+B1F-autosync.dxf,-1,화장실(남),restroom,62340.0,33950.0
+B1F-autosync.dxf,-1,PS실,ps,67160.0,29250.0
+B1F-autosync.dxf,-1,PS실,ps,80410.0,32600.0
+B1F-autosync.dxf,-1,ELEV실,elevator,77590.0,31250.0
+B1F-autosync.dxf,-1,ELEV실,elevator,80700.0,35570.0
+B1F-autosync.dxf,-1,PS실,ps,83590.0,33930.0
+B1F-autosync.dxf,-1,계단실,stair,69160.0,33110.0
+B1F-autosync.dxf,-1,PS실,ps,80410.0,29850.0
+B1F-autosync.dxf,-1,PS실,ps,62800.0,29930.0
+B1F-autosync.dxf,-1,중앙감시실,misc,28730.0,31400.0
+B1F-autosync.dxf,-1,숙직실,lounge,30680.0,35710.0
+B1F-autosync.dxf,-1,기계공학부 한국델켐 기계공작 실습실,ps,70760.0,43550.0
+B1F-autosync.dxf,-1,준비실,misc,76650.0,41540.0
+B1F-autosync.dxf,-1,기계공학부,ps,75040.0,41100.0
+B1F-autosync.dxf,-1,공구실,misc,79070.0,39840.0
+B1F-autosync.dxf,-1,기계공학부,ps,79070.0,39840.0
+B1F-autosync.dxf,-1,신재생에너지시스템실험실,lab,84450.0,33930.0
+B1F-autosync.dxf,-1,기계공학부,ps,87710.0,32910.0
+B1F-autosync.dxf,-1,전기실출입신청용,ps,69200.0,35110.0
+B2F-autosync.dxf,-2,공조실,misc,47230.0,38760.0
+B2F-autosync.dxf,-2,발전기실,ps,28830.0,45970.0
+B2F-autosync.dxf,-2,계단실,stair,20100.0,33550.0
+B2F-autosync.dxf,-2,PS실,ps,20700.0,30450.0
+B2F-autosync.dxf,-2,바이오나노진동 시스템연구실Ⅱ,lab,70680.0,19640.0
+B2F-autosync.dxf,-2,기계공학부,ps,72020.0,18220.0
+B2F-autosync.dxf,-2,멀티스케일 유체공학 연구실 정밀기술 실험실,lab,59860.0,21500.0
+B2F-autosync.dxf,-2,기계공학부,ps,63460.0,21500.0
+B2F-autosync.dxf,-2,건축사회환경공학부 수리학실험실 펌프실(내부),lab,13550.0,23700.0
+B2F-autosync.dxf,-2,보관실,misc,27300.0,24900.0
+B2F-autosync.dxf,-2,열유체공학 실습실,lab,47260.0,21500.0
+B2F-autosync.dxf,-2,기계공학부,ps,47260.0,21500.0
+B2F-autosync.dxf,-2,차세대 재료물성 평가연구실Ⅱ,lab,26120.0,22580.0
+B2F-autosync.dxf,-2,기계공학부,ps,31050.0,21500.0
+B2F-autosync.dxf,-2,최병호,misc,31050.0,21500.0
+B2F-autosync.dxf,-2,차세대재료물성평가실험실Ⅰ,lab,31050.0,21500.0
+B2F-autosync.dxf,-2,기계공학부,ps,34650.0,21500.0
+B2F-autosync.dxf,-2,최병호,misc,34650.0,21500.0
+B2F-autosync.dxf,-2,수리학실험실,lab,22130.0,21700.0
+B2F-autosync.dxf,-2,냉동공조 및 이상유동 실험실,lab,77880.0,20620.0
+B2F-autosync.dxf,-2,기계공학부,ps,77880.0,20620.0
+B2F-autosync.dxf,-2,기계공학부,ps,59860.0,21500.0
+B2F-autosync.dxf,-2,냉동공조 및 이상유동 실험실Ⅱ,lab,84970.0,26330.0
+B2F-autosync.dxf,-2,기계공학부,ps,87710.0,22550.0
+B2F-autosync.dxf,-2,근골격생체역학연구실,lab,63460.0,21500.0
+B2F-autosync.dxf,-2,기계공학부,ps,67520.0,21500.0
+B2F-autosync.dxf,-2,바이오나노진동 시스템연구실Ⅱ,lab,67520.0,21500.0
+B2F-autosync.dxf,-2,기계공학부,ps,72020.0,22920.0
+B2F-autosync.dxf,-2,정밀측정실,misc,86270.0,43060.0
+B2F-autosync.dxf,-2,기계공학부,ps,86270.0,43060.0
+B2F-autosync.dxf,-2,화장실(여),restroom,83460.0,31250.0
+B2F-autosync.dxf,-2,PS실,ps,62490.0,35490.0
+B2F-autosync.dxf,-2,PS실,ps,70960.0,29510.0
+B2F-autosync.dxf,-2,화장실(남),restroom,62340.0,33950.0
+B2F-autosync.dxf,-2,PS실,ps,67160.0,29250.0
+B2F-autosync.dxf,-2,PS실,ps,80410.0,32600.0
+B2F-autosync.dxf,-2,ELEV실,elevator,77590.0,31250.0
+B2F-autosync.dxf,-2,ELEV실,elevator,80700.0,35570.0
+B2F-autosync.dxf,-2,PS실,ps,83590.0,33930.0
+B2F-autosync.dxf,-2,계단실,stair,69160.0,33110.0
+B2F-autosync.dxf,-2,PS실,ps,80410.0,29850.0
+B2F-autosync.dxf,-2,PS실,ps,62800.0,29930.0
+B2F-autosync.dxf,-2,중앙감시실,misc,28730.0,31400.0
+B2F-autosync.dxf,-2,숙직실,lounge,30680.0,35710.0
+B2F-autosync.dxf,-2,기계공학부 한국델켐 기계공작 실습실,ps,70760.0,43550.0
+B2F-autosync.dxf,-2,준비실,misc,76650.0,41540.0
+B2F-autosync.dxf,-2,기계공학부,ps,75040.0,41100.0
+B2F-autosync.dxf,-2,공구실,misc,79070.0,39840.0
+B2F-autosync.dxf,-2,기계공학부,ps,79070.0,39840.0
+B2F-autosync.dxf,-2,신재생에너지시스템실험실,lab,84450.0,33930.0
+B2F-autosync.dxf,-2,기계공학부,ps,87710.0,32910.0
+B2F-autosync.dxf,-2,전기실출입신청용,ps,69200.0,35110.0
