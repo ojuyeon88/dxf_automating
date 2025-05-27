@@ -13,7 +13,7 @@ db_config = {
     "port": 3305,
     "user": "root",
     "password": "0000",
-    "database": "forTest",
+    "database": "dxf",
     "charset": "utf8"
 }
 
